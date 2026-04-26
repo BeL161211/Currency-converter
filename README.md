@@ -26,7 +26,7 @@ python main.py --base kzt --target usd --amount 100000
 ```
 API_KEY = "0f67e867867367067567b67f5267f672675b11b960221"
 ```
-Получить ключь можно на сайте [Exchange Rate API](https://www.exchangerate-api.com/)
+Получить ключ можно на сайте [Exchange Rate API](https://www.exchangerate-api.com/)
 
 ## Цель проекта
 
